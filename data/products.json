@@ -1,0 +1,888 @@
+[
+  {
+    "name": "COLDACT NEW Capsule 20",
+    "price": "67",
+    "description": "COLDACT CAPSULE is a combination of Phenylephrine and Chlorpheniramine which belongs to the group of medicines called Nasal decongestants and Antihistamines respectively.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697981078/products/cough%20and%20cold/coldact-cold-relief-tablet-500x500_uiggw2.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MedPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "JinCold Capsule 20",
+    "price": "100",
+    "description": "Zincold Tablet is a combination medicine that effectively relieves symptoms of common cold such as blocked nose, runny nose, watery eyes, sneezing, and congestion or stuffiness. It helps to loosen thick mucus, making it easier to cough out. This makes it easier for air to move in and out.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979442/products/cough%20and%20cold/jincold_cxogwg.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 125,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Himalaya Tulsi Syrup",
+    "price": "90",
+    "description": "Himalaya Tulasi Syrup helps suppress cough and aids the mobilization of mucus. It assists in calming and dilating the lung's airways providing relief.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979389/products/cough%20and%20cold/tulsi_syrup_ta3ohd.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "Himalaya",
+    "stock": 120,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Aayudh Syrup",
+    "price": "80",
+    "description": "It is made using a variety of natural herbs with antiviral and immunity boosting properties that makes it helpful in case of viral infections and to increase the body's immunity. It is beneficial in viral and bacterial infections, sore throat, cough and cold, flu, etc., with antioxidant and immunomodulatory properties.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979292/products/cough%20and%20cold/aayudh_gu7lnd.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MedPlus",
+    "stock": 50,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Crocin tablet",
+    "price": "50",
+    "description": "It is used to reduce fever and treat mild to moderate pain. Also, it is used to relieve headache, migraine, toothache.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979040/products/cough%20and%20cold/crocin_vnhnsa.jpg"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 150,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Cofsils",
+    "price": "70",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698169267/products/cough%20and%20cold/cofsil_ddggsf.webp"
+      }
+    ],
+    "category": "Cough And Cold",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Medformin Hydrochloride tablet",
+    "price": "73",
+    "description": "Metformin is used to treat high blood sugar levels that are caused by a type of diabetes mellitus or sugar diabetes called type 2 diabetes.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698210992/products/diabetics/d_hcl_qgbslq.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Glucophage",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Sunrise Diabic Care Juice",
+    "price": "170",
+    "description": "Diabic Care Juice is beneficial in controlling all types of diabetes naturally, urinary disorder, frequent urination etc. Stimulate insulin secretion and helps in boosting immunity.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980823/products/diabetics/d4_jwe7xn.jpg"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Metex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Easy Touch Control Solution",
+    "price": "60",
+    "description": "Glucose Monitoring system is working correctly and giving accurate results. The system is performing correctly if the control solution test result falls within the specific control solution range listed on your Test Strip vial.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980820/products/diabetics/d3_aw5mqd.jpg"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Diabex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "G-Leuhr Diaboherb Liquid",
+    "price": "110",
+    "description": "Diaboherb Plus Oral Liquid is a natural herbal medicine that helps to stimulate the pancreatic cells to produce more insulin thereby controlling the blood sugar levels.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980819/products/diabetics/d2_t44mrh.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Diaformin",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "One Touch glucometer",
+    "price": "70",
+    "description": "Recognize the pattern of blood glucose levels (when the blood glucose levels are likely to become high or low).",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980817/products/diabetics/d1_wsjdec.webp"
+      }
+    ],
+    "category": "Diabetics",
+    "seller": "Metex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  
+
+  {
+    "name": "Saridon",
+    "price": "40",
+    "description": "Saridon Tablet is used to treat headaches, Toothache, Back pain, and arthritis. It has Caffeine, Paracetamol, and Propyphenazone as an active ingredient, which used to treat acute pain.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979833/products/headache/h-saridon_x0lodz.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Apo-dolor headache drops",
+    "price": "70",
+    "description": "Headache Drops are effective for treating headache, migraine, mental stress, indigestion, nervousness, headache associated with nausea and vomiting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979832/products/headache/h-dolor_fxv53v.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Apo-dolor",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Pipal headache balm",
+    "price": "50",
+    "description": "Used to relieve severe headaches. It gives a very pleasant heating sensation when rubbed into the skin and cures pains, sprains and cold symptoms.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979831/products/headache/h-pipal_mw3bam.jpg"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Pipal",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Go-Mygraine tablets",
+    "price": "60",
+    "description": "It contains ashwagandha, which relieves migraines by soothing the nervous system and helps with stress and anxiety.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979831/products/headache/h-mygraine_ockaa8.jpg"
+      }
+    ],
+    "category": "Headache",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Himalaya pain balm",
+    "price": "40",
+    "description": "Cofsils cough syrup is a combination medicine containing diphenhydramine, ammonium chloride, and sodium citrate which helps in reducing cough.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979828/products/headache/h-balm_mcrsre.webp"
+      }
+    ],
+    "category": "Headache",
+    "seller": "Himalaya",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Rashtin",
+    "price": "90",
+    "description": "Contains Benzalkonium and Zinc oxide and is used to treat rash and skin irritations.It helps in decreasing skin infections.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979970/products/skin/skinr_oy2zyd.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Eczonil tablet",
+    "price": "70",
+    "description": "It helps eliminate dry skin-related symptoms quickly. Works by balancing the skin's microbiome to soothe dryness and irritation.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979969/products/skin/skin5_jgvymz.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Barphani",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Skin drops",
+    "price": "75",
+    "description": "Dercut Drop helps in managing skin-related concerns. It is highly effective in the management of chronic and acute eczema, and the prevention of pimple eruption, in cases of herpes, rashes and psoriasis.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979967/products/skin/skin3_fzi8w7.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Dercut",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Talekt tablet",
+    "price": "70",
+    "description": "It is a detoxifier that eliminates impurities from the skin's surface and an anti-inflammatory, which is useful in combating various dermatological disorders.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979966/products/skin/skin2_xux7t4.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "Himalaya",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "E-Skin drops",
+    "price": "65",
+    "description": "E-Skin Drops may be an excellent medicine for acne, pimples, scars, eczema, and various other skin problems. It helps remove black spots, boils.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979965/products/skin/skin1_h6ios0.webp"
+      }
+    ],
+    "category": "Skincare",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Imodium tablet",
+    "price": "50",
+    "description": "This medication that treats occasional diarrhea. This medication is made out of loperamide.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979742/products/stomach/s-imodium_fjb8vc.jpg"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Gelusil",
+    "price": "68",
+    "description": "This medication is used to treat the symptoms of too much stomach acid such as stomach upset, heartburn, and acid indigestion. It is also used to relieve symptoms of extra gas such as belching, bloating",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698170481/products/stomach/gelusil_5x5_gy5bjc.jpg"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Gaviscon",
+    "price": "50",
+    "description": "Gaviscon can be used to treat heartburn (acid reflux) and indigestion. The medicine works by forming a protective layer.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979693/products/stomach/s-gaviscon_p6vj4i.jpg"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Gastune drops",
+    "price": "63",
+    "description": " Quick Relief from Indigestion & Other Stomach Related issues like Upset Stomach associated with Hyper Acidity, Heart Burn, Belching, Flatulence, Felling of Fullness & Constipation.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979656/products/stomach/s-gastune_duknyt.jpg"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "Herbal house",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Camypan tablet",
+    "price": "70",
+    "description": " It works effectively to reduce abdominal pain and cramps by relaxing the muscles of the stomach and gut.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979650/products/stomach/s-camypan_phzgtc.webp"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Apo-Stom",
+    "price": "80",
+    "description": "This medication is indicated for treating symptoms that include over-acidity of the stomach, gastritis, stomach pressure, burning sensations, feeling of fullness and nervous sensations.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697979621/products/stomach/s-apostom_wtazb0.jpg"
+      }
+    ],
+    "category": "Stomach",
+    "seller": "Adel",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+  {
+    "name": "Lung Detox",
+    "price": "95",
+    "description": "Presents a shield against the hazards of pollution. Helps to clean and detoxify the lungs.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980731/products/lungs/l6_qkpfif.webp"
+      }
+    ],
+    "category": "Lungcare",
+    "seller": "Inlife",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Asthalin inhaler",
+    "price": "50",
+    "description": "used to treat asthma and chronic obstructive pulmonary disease (COPD) symptoms such as coughing, wheezing, and shortness of breath.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980729/products/lungs/l5_fn7qyg.jpg"
+      }
+    ],
+    "category": "Lungcare",
+    "seller": "Cipla",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Bresol",
+    "price": "60",
+    "description": "Helps to fight respiratory disorders. The natural ingredients synergistically act to provide symptomatic relief in allergic respiratory conditions.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980727/products/lungs/l4_helzcq.webp"
+      }
+    ],
+    "category": "Lungcare",
+    "seller": "Himalaya",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Pulmo care syrup",
+    "price": "58",
+    "description": "Used to treat Asthma and Chronic obstructive pulmonary disease (COPD).",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980726/products/lungs/l3_y9soxp.webp"
+      }
+    ],
+    "category": "Lungcare",
+    "seller": "Guduchi",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Lung care tablets",
+    "price": "75",
+    "description": "Medicine used as an expectorant to clear respiratory tract mucous and relieve coughs.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980722/products/lungs/l1_pmetrl.webp"
+      }
+    ],
+    "category": "Lungcare",
+    "seller": "Dartico",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "SBL drops",
+    "price": "85",
+    "description": "SBL Drops No. 6 (For Joint Pain) is a homoeopathic remedy used in cases of arthritis, swelling, joint, and muscle pain.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980322/products/muscles%20and%20joint/sbl_drops_j_pzt5gj.webp"
+      }
+    ],
+    "category": "Muscles and joints",
+    "seller": "MedPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Leg cramp Rx",
+    "price": "45",
+    "description": "Treats muscle spasms and relieves pain and stiffness in muscles.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980266/products/muscles%20and%20joint/genexalc_gesczo.png"
+      }
+    ],
+    "category": "Muscles and joints",
+    "seller": "Genexa",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Mayahi oinment",
+    "price": "65",
+    "description": "Helps relieve muscle cramps and spasms. Our fast-acting oinment absorbs quickly to help bring relief.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980123/products/muscles%20and%20joint/gynojoint_ona1n9.bmp"
+      }
+    ],
+    "category": "Muscles and joints",
+    "seller": "Gynoveda",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Otho balm",
+    "price": "45",
+    "description": "It brings back the normal swiftness of the joints and enables you to function properly. It also helps in repairing the damaged tissues of the body as well.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980084/products/muscles%20and%20joint/ortho_balm_q07pgz.jpg"
+      }
+    ],
+    "category": "Muscles and joints",
+    "seller": "Metex",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Cardiac care capsules",
+    "price": "55",
+    "description": "Vi Prime cardiac care capsules are the best heart care supplement that helps in reducing cholesterol levels, reducing blood pressure, and other risks that put you in danger of heart disease.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980902/products/pressure%20and%20heart/ph6_hmuehw.webp"
+      }
+    ],
+    "category": "Pressure and heart",
+    "seller": "Vi prime",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Heart care drops",
+    "price": "107",
+    "description": "It is used to treat circulation problems, stroke, angina pectoris, and other diseases of the heart and blood vessels.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980900/products/pressure%20and%20heart/ph5_fon299.webp"
+      }
+    ],
+    "category": "Pressure and heart",
+    "seller": "Cangust",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Spironolactone BP tablets",
+    "price": "57",
+    "description": "Spironolactone is used in combination with other medicines to treat high blood pressure (hypertension) and heart failure. Lowering blood pressure can reduce the risk of strokes and heart attacks.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980896/products/pressure%20and%20heart/p3_j72xcx.jpg"
+      }
+    ],
+    "category": "Pressure and heart",
+    "seller": "Spirona",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Lebtel-40 tablets",
+    "price": "65",
+    "description": "Treat high blood pressure and heart failure. This medicine is also effective in preserving kidney function in patients with diabetes.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980892/products/pressure%20and%20heart/p1_gmhta0.jpg"
+      }
+    ],
+    "category": "Pressure and heart",
+    "seller": "MedPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Organic protein powder",
+    "price": "158",
+    "description": "Protein powder is marketed as this magic bullet to help someone gain lots of muscle mass or as a meal replacement to shed some weight.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980569/products/vitamins%20and%20minerals/vmp_vixkxg.webp"
+      }
+    ],
+    "category": "Vitamins and supplements",
+    "seller": "Orgain",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Ferolax B12",
+    "price": "95",
+    "description": "It helps in normal formation of red blood cells and hemoglobin and normal oxygen transport in the body.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980568/products/vitamins%20and%20minerals/vmiron_xp7vlq.webp"
+      }
+    ],
+    "category": "Vitamins and supplements",
+    "seller": "MediPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Multivitamin tablets",
+    "price": "74",
+    "description": "Helps to fight infection, wound healing, making our bones strong and regulating hormones.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980566/products/vitamins%20and%20minerals/vm3_nexxzv.jpg"
+      }
+    ],
+    "category": "Vitamins and supplements",
+    "seller": "Sprowl",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Multivitamin tablets for women",
+    "price": "115",
+    "description": "This medication is a multivitamin product used to treat or prevent vitamin deficiency due to poor diet, certain illnesses, or during pregnancy.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980565/products/vitamins%20and%20minerals/vm2_s24fd6.jpg"
+      }
+    ],
+    "category": "Vitamins and supplements",
+    "seller": "MedPlus",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+
+
+
+  {
+    "name": "Foomasule",
+    "price": "175",
+    "description": "Prevent the incidence of FOOT & MOUTH DISEASE (FMD) in cattle. It is very helpful when there is an outbreak of the disease in nearby places as it boosts the immunity of animals against viral infection of FMD.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1698578532/products/veterinary/cow1_y3sihw.webp"
+      }
+    ],
+    "category": "Veterinary",
+    "seller": "Dr.Goel",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Diasule",
+    "price": "99",
+    "description": "DIASULE for CATTLE is the best Homeopathic Veterinary Medicine for Cattle that protects animals from infectious diarrhea.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980446/products/veterinary/v4_xqhpfd.png"
+      }
+    ],
+    "category": "Veterinary",
+    "seller": "Dr.Goel",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Doxypet 200",
+    "price": "65",
+    "description": "This antibiotic from Savavet for pets is mostly used in treating various infections - respiratory infections, urinary tract infections.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980442/products/veterinary/v2_gnxpmu.jpg"
+      }
+    ],
+    "category": "Veterinary",
+    "seller": "Savavet",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  },
+  {
+    "name": "Defender Nex",
+    "price": "57",
+    "description": "Defender Nex is a broad-spectrum dewormer for cats and kittens to treat tapeworms, hookworms and roundworms.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/f1_oimjmn",
+        "url": "https://res.cloudinary.com/dsem9vo3p/image/upload/v1697980444/products/veterinary/v3_otmljh.jpg"
+      }
+    ],
+    "category": "Veterinary",
+    "seller": "Dewormer",
+    "stock": 250,
+    "numOfReviews": 7312,
+    "reviews": [],
+    "user" :"6534dbccd7e15b2edc831d26"
+  }
+]
